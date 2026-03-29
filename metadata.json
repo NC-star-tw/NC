@@ -1,0 +1,5 @@
+{
+  "name": "咖啡心情選物 (Coffee Mood Matcher)",
+  "description": "根據天氣與心情，為您推薦最適合的濾掛咖啡，並搜尋實體商品連結。",
+  "requestFramePermissions": []
+}
